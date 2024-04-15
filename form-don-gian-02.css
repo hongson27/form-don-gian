@@ -1,0 +1,22 @@
+table{
+    /*background-color: white;*/
+    border: 1px solid black;
+}
+/*td,th {*/
+/*    border: 1px solid black;*/
+/*}*/
+#maucam {
+    background-color: #FF6600;
+    color: white;
+}
+#mauchu {
+    color: #FF6603;
+}
+ .blue-text {
+     color: #006699;
+ }
+ #form {
+
+     width: 20%;
+     /*background-color: #CCFFFF;*/
+ }
